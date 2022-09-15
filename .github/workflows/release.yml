@@ -17,4 +17,4 @@ jobs:
       - name: yarn build and semantic-release
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.CR_PAT }}
+          GITHUB_TOKEN: ${{ secrets.LIATRIO_BOT_PRIVATE_REPO_ACCESS_PAT }}
