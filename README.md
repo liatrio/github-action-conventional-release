@@ -26,7 +26,7 @@ jobs:
         id: tag
         with:
           debug: false
-          dryGrun: false
+          dryRun: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
