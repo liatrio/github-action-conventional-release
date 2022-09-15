@@ -1,6 +1,6 @@
 {
-  "name": "conventional-release",
-  "version": "1.0.0",
+  "name": "github-action-conventional-release",
+  "version": "v0.1.0",
   "private": true,
   "dependencies": {
     "@liatrio/semantic-release-helm": "^2.0.0",
