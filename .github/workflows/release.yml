@@ -15,6 +15,6 @@ jobs:
         run: yarn install
       
       - name: yarn build and semantic-release
-        run: yarn run build && npx semantic-release
+        run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.CR_PAT }}
