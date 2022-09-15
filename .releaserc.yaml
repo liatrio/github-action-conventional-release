@@ -1,7 +1,7 @@
 ---
 branches:
   - main
-repositoryUrl: https://github.com/liatrio/github-actions-conventional-release.git
+repositoryUrl: https://github.com/liatrio/github-action-conventional-release.git
 preset: conventionalcommits
 tagFormat: "v${version}"
 plugins:
