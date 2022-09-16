@@ -863,10 +863,10 @@
   resolved "https://registry.yarnpkg.com/@isaacs/string-locale-compare/-/string-locale-compare-1.1.0.tgz#291c227e93fd407a96ecd59879a35809120e432b"
   integrity sha512-SQ7Kzhh9+D+ZW9MA0zkYv3VXhIDNx+LzM6EJ+/65I3QY+enU6Itte7E5XX7EWrqLW2FN4n06GWzBnPoC3th2aQ==
 
-"@liatrio/semantic-release-helm@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@liatrio/semantic-release-helm/-/semantic-release-helm-2.0.0.tgz#d1f04b1843eb45bea6fb6b7403f2ebbac6fc08eb"
-  integrity sha512-BKP18j2NgdT7jfmM+cUTWPI2BCcUIepbcJE8ZZhVWLdIgDMTBGD1HrlIwMwChhizAD+IWIVjcGgTfpCVmopc+w==
+"@liatrio/semantic-release-helm@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@liatrio/semantic-release-helm/-/semantic-release-helm-3.0.0.tgz#6d6b77fe2ef1bae2aa0f061dc7fc1755c787f429"
+  integrity sha512-5GylJjJ4BAPcCyCNXTl92Nd9Kdw+6e6t5TTxiTaF/jYMNYiJhTV6Yi7FjltEWPE6/cIQRoV9U5XoG4rz8BYauw==
   dependencies:
     "@aws-sdk/client-s3" "^3.48.0"
     "@aws-sdk/client-sts" "^3.48.0"
